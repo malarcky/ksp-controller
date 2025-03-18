@@ -1,0 +1,33 @@
+Analog Joysticks
+
+Pin 38: First joystick, X-axis
+Pin 39: First joystick, Y-axis
+Pin 40: First joystick, Z-axis
+Pin 41: Second joystick, X-axis (mapped as Zrotate)
+Pin 42: Second joystick, Y-axis (mapped as sliderLeft)
+Pin 43: Second joystick, Z-axis (mapped as sliderRight)
+
+Joystick Buttons
+
+Pin 0: First joystick button (button 1)
+Pin 1: Second joystick button (button 2)
+
+Mechanical Switches
+
+Pins 2-17: 16 mechanical switches (buttons 3-18)
+
+Rotary Encoders
+
+Pin 18: First encoder, rotation pin A
+Pin 19: First encoder, rotation pin B
+Pin 20: Second encoder, rotation pin A
+Pin 21: Second encoder, rotation pin B
+Pin 22: First encoder integrated button (button 19)
+Pin 23: Second encoder integrated button (button 20)
+
+Three-Position Switches
+
+Pin 24: First three-position switch, first pin
+Pin 25: First three-position switch, second pin
+Pin 26: Second three-position switch, first pin
+Pin 27: Second three-position switch, second pin
