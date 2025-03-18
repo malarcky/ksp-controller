@@ -1,6 +1,7 @@
 This is a personal project that I started last year and have finally completed. It is a controller for KSP or similar simulators, although it can also be used for other games.
 
-![photo_2025-02-27_20-24-14](https://github.com/user-attachments/assets/650bc3cc-d2a0-410d-9794-ba6666aab439)
+![photo_2025-02-27_20-24-14](https://github.com/user-attachments/assets/a80f4b27-26b0-48e9-a4d0-1e6f4ce7fc5c)
+
 You can download the STL files here: https://makerworld.com/en/models/1157316-ksp-kerbal-space-program-controller-panel-joystick
 
 You will need the following hardware:
